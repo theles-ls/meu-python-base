@@ -11,6 +11,7 @@ How to run:
 python3 hello.py
 or
 ./hello.py
+groselha
 """
 __version__ = "0.0.1"
 __author__ = "Theles Silveira"
